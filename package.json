@@ -1,14 +1,14 @@
 {
-    "description": "joel xmd-session-scanner",
-    "main": "./joel.js",
+    "description": "popkid xmd-session-scanner",
+    "main": "./popkid.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node joel.js"
+    "start": "node popkid.js"
   },
-  "author": "lord joel",
+  "author": "popkid",
    "license": "",
    "dependencies": {
         "@hapi/boom": "^10.0.1",
